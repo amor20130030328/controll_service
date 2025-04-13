@@ -1,0 +1,86 @@
+[
+  {
+    "appName": "百度极速版",
+    "appKey": "bd",
+    "appPackageName": "com.baidu.searchbox.lite",
+    "appActivity": "com.baidu.searchbox.MainActivity",
+    "video": true
+  },
+  {
+    "appName": "火山小视频",
+    "appKey": "huoshan",
+    "appPackageName": "com.ss.android.ugc.live",
+    "appActivity": "com.ss.android.ugc.aweme.splash.SplashActivity",
+    "video": true
+  },
+  {
+    "appName": "抖音极速版",
+    "appKey": "douyin",
+    "appPackageName": "com.ss.android.ugc.aweme.lite",
+    "appActivity": "com.ss.android.ugc.aweme.splash.SplashActivity",
+    "video": true
+  },
+  {
+    "appName": "有柿",
+    "appKey": "youshi",
+    "appPackageName": "com.ss.android.article.search",
+    "appActivity": "com.ss.android.article.news.activity.MainActivity",
+    "video": true
+  },
+  {
+    "appName": "悟空浏览器",
+    "appKey": "wukong",
+    "appPackageName": "com.cat.readall",
+    "appActivity": ".activity.BrowserMainActivity",
+    "video": true
+  },
+  {
+    "appName": "头条极速版",
+    "appKey": "toutiaosousuo",
+    "appPackageName": "com.ss.android.article.lite",
+    "appActivity": "com.ss.android.article.lite.activity.SplashActivity",
+    "video": true
+  },
+  {
+    "appName": "快手极速版",
+    "appKey": "ks",
+    "appPackageName": "com.kuaishou.nebula",
+    "appActivity": "com.yxcorp.gifshow.HomeActivity",
+    "video": true
+  },
+  {
+    "appName": "西瓜视频",
+    "appKey": "xg",
+    "appPackageName": "com.ss.android.article.video",
+    "appActivity": "com.ss.android.article.video.activity.SplashActivity",
+    "video": true
+  },
+  {
+    "appName": "红果免费短剧",
+    "appKey": "hpg",
+    "appPackageName": "com.phoenix.read",
+    "appActivity": "com.dragon.read.pages.splash.SplashActivity",
+    "video": true
+  },
+  {
+    "appName": "番茄畅听",
+    "appKey": "fqct",
+    "appPackageName": "com.xs.fm",
+    "appActivity": "com.dragon.read.pages.splash.SplashActivity",
+    "video": true
+  },
+  {
+    "appName": "速读免费小说",
+    "appKey": "sd",
+    "appPackageName": "com.dj.speed",
+    "appActivity": "com.chaozh.iReader.ui.activity.WelcomeActivity",
+    "video": true
+  },
+  {
+    "appName": "番茄小说",
+    "appKey": "fqxs",
+    "appPackageName": "com.dragon.read",
+    "appActivity": ".pages.splash.SplashActivity",
+    "video": true
+  }
+]
